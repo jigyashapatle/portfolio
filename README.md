@@ -3,7 +3,7 @@
 A sleek, responsive, and fully customizable **animated portfolio website** built using **React.js** and **Tailwind CSS**. 
 ## 🚀 Live Demo
 
-🔗 [View Portfolio Live](https://patlejigyasha.vercel.app/)
+🔗 [View Portfolio Live](portfolio-iec06nfvc-patlejigyasha-1542s-projects.vercel.app)
 
 ## 🛠️ Tech Stack
 
